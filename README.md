@@ -35,19 +35,40 @@ PROCEDURE:
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
 CIRCUIT DIAGRAMS
+![WhatsApp Image 2026-03-31 at 8 14 59 AM](https://github.com/user-attachments/assets/d92c536a-b0e1-4fae-864b-08b8dce08a9f)
+![WhatsApp Image 2026-03-31 at 8 15 36 AM](https://github.com/user-attachments/assets/089dfaf7-4a9f-4c80-b138-28290f31e01f)
+
+
 
 Half wave rectifier with filter:
+![WhatsApp Image 2026-03-31 at 8 15 12 AM](https://github.com/user-attachments/assets/09a3ef2b-7112-472b-8fd8-a2c7e466ee32)
 
 Bridge rectifier with filter:
+![WhatsApp Image 2026-03-31 at 8 15 27 AM](https://github.com/user-attachments/assets/c0fdba79-3e47-4920-b045-d9df2dc20452)
+
 
 TABULAR COLUMN
+![WhatsApp Image 2026-03-31 at 8 16 11 AM](https://github.com/user-attachments/assets/7b6b8c5d-25f6-4f02-be1e-c950504c5d4f)
+
 Rectifier without filter
+ ![WhatsApp Image 2026-03-31 at 8 17 44 AM](https://github.com/user-attachments/assets/fbd3a140-29b4-49b9-a301-1f3bed5ceaaf)
+
+![WhatsApp Image 2026-03-31 at 8 15 57 AM](https://github.com/user-attachments/assets/8d5fbe8f-87fe-4fd6-80ac-8ad48b596472)
+
 TABULAR COLUMN
+![WhatsApp Image 2026-03-31 at 8 16 30 AM](https://github.com/user-attachments/assets/7c041693-742f-4bf0-9404-6839b9900572)
+
 Rectifier with filter
+![WhatsApp Image 2026-03-31 at 8 17 00 AM](https://github.com/user-attachments/assets/89507cc5-6881-4dda-8b2f-0830a0a3eeda)
+
+![WhatsApp Image 2026-03-31 at 8 16 44 AM](https://github.com/user-attachments/assets/2cf7fb1c-ac8d-4d2b-913f-0613907b7ff4)
+
 
 WAVEFORM:
 
 
 RESULT:
+![WhatsApp Image 2026-03-31 at 8 17 12 AM](https://github.com/user-attachments/assets/20d3b0c4-75aa-4191-b032-47b766a84025)
+
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
